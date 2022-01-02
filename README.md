@@ -1,2 +1,2 @@
-# TextureClassificationProgram
-Texture Classification Program using pytorch by Colab
+# NatureClassificationProgram
+Nature Classification Program using pytorch by Colab
